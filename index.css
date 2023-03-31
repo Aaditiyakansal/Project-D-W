@@ -19,7 +19,17 @@ html{
 .cart{
     padding-top: 8px;
     background-color: transparent;
+  
 }
+
+.cart:hover {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  cursor: pointer;
+}
+
+
 .footer{
     display: flex;
     flex-direction: row;
